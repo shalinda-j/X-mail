@@ -1,0 +1,7 @@
+# Remove these as they are standard libraries:
+# smtplib
+# email
+aiosmtplib==2.0.2
+Flask==3.0.0
+
+# If you need any third-party libraries, list them here.
